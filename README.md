@@ -1,5 +1,5 @@
 # GettingandCleaningData 
-1. First of all downlod data from the url [link] https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+1. First of all downlod data from the url [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 2. Extract the data in the current working directory. A folder name "UCI HAR Dataset" will be created which will include all the data file
 3. Place run_analysis.R in the currect working directory.
 4. Execute the script using source('run_analysis.r')
